@@ -2,7 +2,9 @@
 ## Penn State Behrend, Humanities
 ### Mark Makowski
 
-This is a demo stire for the students of [Penn State Behrend](http://behrend.psu.edu/)
+This is a demo site for the students of [Penn State Behrend](http://behrend.psu.edu/)
+
+We are talking about images, sample code, Psuedo-code, Hello World Code, and much much more :D
 
 ## We can embed images too
 

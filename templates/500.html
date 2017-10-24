@@ -1,0 +1,18 @@
+{% extends "header.html" %}
+
+{% block body %}
+
+<h1>500 - INTERNAL SERVER ERROR</h1>
+<h3>Something Broke Bad!<code>{{ error }}</code></h3>
+<!-- Indicates a dangerous or potentially negative action -->
+<a href="javascript:history.go(-1)">
+    <button type="button" class="btn btn-info">GO BACK</button>
+
+</a>
+<div class="fixed-bottom">
+    <img src="/static/images/dance.gif"  width="30%">
+</div>
+
+
+
+{% endblock %}

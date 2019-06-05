@@ -1,8 +1,9 @@
 # DIGIT 400
 ## Penn State Behrend, Humanities
-### Mark Makowski
+### Markdude701
 
-This is a demo site for the students of [Penn State Behrend](http://behrend.psu.edu/)
+- Basic Flask Example
+- This is a demo site for the students of [Penn State Behrend](http://behrend.psu.edu/)
 
 We are talking about images, sample code, Psuedo-code, Hello World Code, and much much more :D
 
